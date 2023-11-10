@@ -1,0 +1,210 @@
+{
+  "klip_listesi": [
+    {
+      "klip_adı": "Thriller",
+      "yayınlanma_tarihi": "1983-12-02",
+      "yönetmen": "John Landis",
+      "oyuncular": ["Michael Jackson", "Ola Ray"],
+      "bilgi": "Thriller, Michael Jackson'ın Thriller albümünden çıkan bir şarkı ve kliptir. Klibi, bir korku filmi temasına sahip ve dans sahneleri ile ünlüdür. Michael Jackson, zombilere dönüşen bir karakteri canlandırır."
+    },
+    {
+      "klip_adı": "Beat It",
+      "yayınlanma_tarihi": "1983-02-14",
+      "yönetmen": "Bob Giraldi",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Beat It, Michael Jackson'ın Thriller albümünden çıkan bir şarkı ve kliptir. Klibi, sokak çeteleri arasındaki bir çatışmayı konu alan bir hikayeye sahiptir. Dans sahneleri ve görsel efektler dikkat çekicidir."
+    },
+    {
+      "klip_adı": "Billie Jean",
+      "yayınlanma_tarihi": "1983-01-02",
+      "yönetmen": "Steve Barron",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Billie Jean, Michael Jackson'ın Thriller albümünden çıkan bir şarkı ve kliptir. Klibi, Michael Jackson'ın yürüyen dansıyla ünlenen ikonik bir performansa sahiptir. Aydınlatma efektleri ve dans hareketleri dikkat çekicidir."
+    },
+    {
+      "klip_adı": "Smooth Criminal",
+      "yayınlanma_tarihi": "1988-10-13",
+      "yönetmen": "Colin Chilvers",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Smooth Criminal, Michael Jackson'ın Bad albümünden çıkan bir şarkı ve kliptir. Klibi, gangster temalı bir hikaye üzerine kurulmuştur. Michael Jackson'ın eşsiz dans hareketleri klipte öne çıkar."
+    },
+    {
+      "klip_adı": "Black or White",
+      "yayınlanma_tarihi": "1991-11-14",
+      "yönetmen": "John Landis",
+      "oyuncular": ["Michael Jackson", "Macaulay Culkin"],
+      "bilgi": "Black or White, Michael Jackson'ın Dangerous albümünden çıkan bir şarkı ve kliptir. Klibi, ırklar arası birliği ve hoşgörüyü vurgulayan bir mesaj içerir. Klibin sonunda birçok farklı kültürden insanlar dans eder."
+    },
+    {
+      "klip_adı": "Remember the Time",
+      "yayınlanma_tarihi": "1992-02-02",
+      "yönetmen": "John Singleton",
+      "oyuncular": ["Michael Jackson", "Eddie Murphy", "Iman"],
+      "bilgi": "Remember the Time, Michael Jackson'ın Dangerous albümünden çıkan bir şarkı ve kliptir. Klibi, Mısır mitolojisi temasını işleyen bir hikayeye sahiptir. Klibin başrollerinde Eddie Murphy ve Iman yer alır."
+    },
+    {
+      "klip_adı": "Bad",
+      "yayınlanma_tarihi": "1987-09-07",
+      "yönetmen": "Martin Scorsese",
+      "oyuncular": ["Michael Jackson", "Wesley Snipes"],
+      "bilgi": "Bad, Michael Jackson'ın Bad albümünden çıkan bir şarkı ve kliptir. Klibi, bir gençlik çetesinin hikayesini anlatır. Klibin başrolünde Wesley Snipes yer alır."
+    },
+    {
+      "klip_adı": "Earth Song",
+      "yayınlanma_tarihi": "1995-11-27",
+      "yönetmen": "Nick Brandt",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Earth Song, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, doğal kaynakların korunması ve çevre sorunlarına dikkat çeken bir mesaj içermektedir."
+    },
+    {
+      "klip_adı": "They Don't Care About Us",
+      "yayınlanma_tarihi": "1996-03-31",
+      "yönetmen": "Spike Lee",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "They Don't Care About Us, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, toplumsal adalet konularına dikkat çeken bir mesaj içermektedir."
+    },
+    {
+      "klip_adı": "Stranger in Moscow",
+      "yayınlanma_tarihi": "1996-11-04",
+      "yönetmen": "Nicholas Brandt",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Stranger in Moscow, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, yalnızlık ve melankoli temalarını işleyen bir hikayeye sahiptir."
+    },
+    {
+      "klip_adı": "Scream",
+      "yayınlanma_tarihi": "1995-06-13",
+      "yönetmen": "Mark Romanek",
+      "oyuncular": ["Michael Jackson", "Janet Jackson"],
+      "bilgi": "Scream, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, Jackson kardeşlerin birlikte sahne aldığı nadir bir çalışmadır. Klibin bir uzay istasyonunda geçen bir bölümü de bulunmaktadır."
+    },
+    {
+      "klip_adı": "Dangerous",
+      "yayınlanma_tarihi": "1993-11-26",
+      "yönetmen": "David Fincher",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Dangerous, Michael Jackson'ın Dangerous albümünden çıkan bir şarkı ve kliptir. Klibi, suç ve tehlikeli durumlarla dolu bir hikaye üzerine kurulmuştur. Michael Jackson, dansları ve performansıyla dikkat çeker."
+    },
+    {
+      "klip_adı": "Don't Stop 'Til You Get Enough",
+      "yayınlanma_tarihi": "1979-10-16",
+      "yönetmen": "Nick Saxton",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Don't Stop 'Til You Get Enough, Michael Jackson'ın Off the Wall albümünden çıkan bir şarkı ve kliptir. Klibi, dans ve disko temalıdır. Michael Jackson'ın dans performansları göz alıcıdır."
+    },
+    {
+      "klip_adı": "Rock with You",
+      "yayınlanma_tarihi": "1979-11-03",
+      "yönetmen": "Bruce Gowers",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Rock with You, Michael Jackson'ın Off the Wall albümünden çıkan bir şarkı ve kliptir. Klibi, dans odaklıdır ve renkli ışıklandırmalarla görsel bir şölene dönüşür."
+    },
+    {
+      "klip_adı": "You Are Not Alone",
+      "yayınlanma_tarihi": "1995-08-15",
+      "yönetmen": "Wayne Isham",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "You Are Not Alone, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, aşk ve destek üzerine bir hikaye anlatır. Klibin sonunda Lisa Marie Presley de yer alır."
+    },
+    {
+      "klip_adı": "The Way You Make Me Feel",
+      "yayınlanma_tarihi": "1987-11-14",
+      "yönetmen": "Joe Pytka",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "The Way You Make Me Feel, Michael Jackson'ın Bad albümünden çıkan bir şarkı ve kliptir. Klibi, bir sokakta başlayan bir aşk hikayesini anlatır. Dans sahneleri ve enerjisiyle dikkat çeker."
+    },
+    {
+      "klip_adı": "In the Closet",
+      "yayınlanma_tarihi": "1992-04-30",
+      "yönetmen": "Herb Ritts",
+      "oyuncular": ["Michael Jackson", "Naomi Campbell"],
+      "bilgi": "In the Closet, Michael Jackson'ın Dangerous albümünden çıkan bir şarkı ve kliptir. Klibi, bir moda çekimi teması etrafında dönüşen bir flört hikayesini anlatır. Klibin başrolünde Naomi Campbell yer alır."
+    },
+    {
+      "klip_adı": "Blood on the Dance Floor",
+      "yayınlanma_tarihi": "1997-03-21",
+      "yönetmen": "Michael Jackson",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Blood on the Dance Floor, Michael Jackson'ın Blood on the Dance Floor: HIStory in the Mix albümünden çıkan bir şarkı ve kliptir. Klibi, dans sahneleriyle dikkat çeken bir performans videosudur."
+    },
+    {
+      "klip_adı": "Ghosts",
+      "yayınlanma_tarihi": "1997-10-07",
+      "yönetmen": "Stan Winston",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Ghosts, Michael Jackson'ın Blood on the Dance Floor: HIStory in the Mix albümündeki bir şarkı ve kliptir. Klibi, bir hayalet hikayesi ve Michael Jackson'ın farklı karakterleri canlandırmasıyla dikkat çeker."
+    },
+    {
+      "klip_adı": "Stranger in Moscow",
+      "yayınlanma_tarihi": "1996-11-04",
+      "yönetmen": "Nicholas Brandt",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "Stranger in Moscow, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, yalnızlık ve melankoli temalarını işleyen bir hikayeye sahiptir."
+    },
+    {
+      "klip_adı": "You Rock My World",
+      "yayınlanma_tarihi": "2001-08-22",
+      "yönetmen": "Paul Hunter",
+      "oyuncular": ["Michael Jackson", "Marlon Brando", "Chris Tucker"],
+      "bilgi": "You Rock My World, Michael Jackson'ın Invincible albümünden çıkan bir şarkı ve kliptir. Klibi, bir gece kulübünde geçen bir hikayeyi anlatır. Michael Jackson, dansları ve Chris Tucker'ın komik performansıyla dikkat çeker. Klibe ünlü aktör Marlon Brando da cameo olarak katılır."
+    },
+    {
+      "klip_adı": "A Place with No Name",
+      "yayınlanma_tarihi": "2014-08-13",
+      "yönetmen": "Samuel Bayer",
+      "oyuncular": ["Michael Jackson"],
+      "bilgi": "A Place with No Name, Michael Jackson'ın Xscape albümünden çıkan bir şarkı ve kliptir. Klibi, bir çölde geçen ve Michael Jackson'ın hologram olarak göründüğü bir hikayeye sahiptir."
+    },
+    {
+	"klip_adı": "Childhood",
+	"yayınlanma_tarihi": "1995-07-31",
+	"yönetmen": "Nicholas Brandt",
+	"oyuncular": ["Michael Jackson"],
+	"bilgi": "Childhood, Michael Jackson'ın HIStory albümünden çıkan bir şarkı ve kliptir. Klibi, çocukluk ve masumiyet temalarını işleyen bir hikayeye sahiptir. Klibin görsel efektleri ve Michael Jackson'ın performansı dikkat çeker."
+	},
+	{
+	"klip_adı": "Heal the World",
+	"yayınlanma_tarihi": "1992-12-08",
+	"yönetmen": "Joe Pytka",
+	"oyuncular": ["Michael Jackson"],
+	"bilgi": "Heal the World, Michael Jackson'ın Dangerous albümünden çıkan bir şarkı ve kliptir. Klibi, dünyadaki çocukların yaşadığı zorluklara ve barışa dikkat çeken bir mesaj içerir. Klibin sonunda Michael Jackson, çocuklarla bir araya gelir ve onlara umut verir."
+	},
+	{
+	"klip_adı": "Liberian Girl",
+	"yayınlanma_tarihi": "1989-07-03",
+	"yönetmen": "Jim Yukich",
+	"oyuncular": ["Michael Jackson", "John Travolta", "Olivia Newton-John", "Steven Spielberg", "Dan Aykroyd", "Whoopi Goldberg", "Lou Ferrigno", "Amy Irving","Jasmin Lüthje", "Dolly Parton", "Suzanne Somers", "Corey Feldman", "David Copperfield", "Billy Dee Williams", "Sherman Hemsley", "Don King","Lou Diamond Phillips","Brigitte Nielsen", "Paula Abdul", "Rosanna Arquette", "Carl Weathers", "Rick Baker", "Carlton Banks", "Bubbles"],
+	"bilgi": "Liberian Girl, Michael Jackson'ın Bad albümünden çıkan bir şarkı ve kliptir. Klibi, bir film setinde çekilen bir sahnenin arkasında geçen bir hikayeye sahiptir. Klibe birçok ünlü isim cameo olarak katılır ve Michael Jackson'ın şarkısını dinleyen Liberian bir kız çocuğu etrafında dönüşür."
+	},
+	{
+	"klip_adı": "Whatzupwitu",
+	"yayınlanma_tarihi": "",
+	"yönetmen": "",
+	"oyuncular": ["Michael Jackson, Eddie Murphy"],
+	"bilgi": " "
+	},
+	{
+	"klip_adı": "Why",
+	"yayınlanma_tarihi": "",
+	"yönetmen": "",
+	"oyuncular": ["Michael Jackson, 3T"],
+	"bilgi": " "
+	},
+	{
+	"klip_adı": "Say Say Say",
+	"yayınlanma_tarihi": "1983-10-10",
+	"yönetmen": "Bob Giraldi",
+	"oyuncular": ["Michael Jackson", "Paul McCartney", "Linda McCartney", "Laurence Olivier"],
+	"bilgi": "Say Say Say, Paul McCartney ve Michael Jackson'ın birlikte çalıştığı bir şarkı ve kliptir. Klibi, bir sirk teması etrafında dönen bir hikayeye sahiptir. Klibe Michael Jackson, Paul McCartney, Linda McCartney ve ünlü aktör Laurence Olivier gibi isimler katılır."
+	},
+	{
+	"klip_adı": "Jam",
+	"yayınlanma_tarihi": "1992-07-13",
+	"yönetmen": "David Kellogg",
+	"oyuncular": ["Michael Jackson", "Michael Jordan"],
+	"bilgi": "Jam, Michael Jackson'ın Dangerous albümünden çıkan bir şarkı ve kliptir. Klibi, müzik ve sporun birleştiği bir tema üzerine kuruludur. Klibe ünlü basketbol oyuncusu Michael Jordan da konuk olarak katılır ve Michael Jackson ile dans ve basketbol sahnelerinde birlikte performans sergiler."
+	}
+		
+
+  ]
+}
+
